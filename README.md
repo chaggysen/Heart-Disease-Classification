@@ -9,3 +9,7 @@ Through modelling and experimentation, we concluded that LogisticRegression is t
 #### Hyperparameters
 - C = 0.20433597178569418
 - solver = liblinear
+
+#### ROC Curve and AUC score
+
+![image](https://user-images.githubusercontent.com/59708469/148119321-a55e6982-0f20-4dc7-b4c1-a2ea5c631b5b.png)
